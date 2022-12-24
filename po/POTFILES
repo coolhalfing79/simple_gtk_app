@@ -1,0 +1,6 @@
+data/com.github.coolhalfing79.SimpleGtkApp.desktop.in
+data/com.github.coolhalfing79.SimpleGtkApp.appdata.xml.in
+data/com.github.coolhalfing79.SimpleGtkApp.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

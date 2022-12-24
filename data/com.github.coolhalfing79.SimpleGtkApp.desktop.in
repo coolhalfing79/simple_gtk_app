@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=simple_gtk_app
+Exec=simple_gtk_app
+Icon=com.github.coolhalfing79.SimpleGtkApp
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
